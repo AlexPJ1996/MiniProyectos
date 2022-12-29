@@ -1,0 +1,13 @@
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\bin\Debug\DataBase.accdb
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\bin\Debug\RellenarComboBox.exe.config
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\bin\Debug\RellenarComboBox.exe
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\bin\Debug\RellenarComboBox.pdb
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\bin\Debug\RellenarComboBox.xml
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\obj\Debug\RellenarComboBox.vbproj.AssemblyReference.cache
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\obj\Debug\RellenarComboBox.Resources.resources
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\obj\Debug\RellenarComboBox.Princvb.resources
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\obj\Debug\RellenarComboBox.vbproj.GenerateResource.cache
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\obj\Debug\RellenarComboBox.vbproj.CoreCompileInputs.cache
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\obj\Debug\RellenarComboBox.exe
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\obj\Debug\RellenarComboBox.xml
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\MiniProyectos\RellenarComboBox\obj\Debug\RellenarComboBox.pdb
