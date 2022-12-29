@@ -1,0 +1,17 @@
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\bin\Debug\DB.mdf
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\bin\Debug\DB_log.ldf
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\bin\Debug\Monedero.exe.config
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\bin\Debug\Monedero.exe
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\bin\Debug\Monedero.pdb
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\bin\Debug\Monedero.xml
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\obj\Debug\Monedero.vbproj.AssemblyReference.cache
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\obj\Debug\Monedero.Resources.resources
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\obj\Debug\Monedero.Princ.resources
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\obj\Debug\Monedero.vbproj.GenerateResource.cache
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\obj\Debug\Monedero.vbproj.CoreCompileInputs.cache
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\obj\Debug\Monedero.vbproj.CopyComplete
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\obj\Debug\Monedero.exe
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\obj\Debug\Monedero.xml
+C:\Users\Familia-PJ\Documents\Alexander\Proyectos\RegsX3\Monedero\obj\Debug\Monedero.pdb
